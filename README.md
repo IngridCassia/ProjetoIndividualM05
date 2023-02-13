@@ -26,5 +26,4 @@ Perfil github:
 https://github.com/IngridCassia
 
 
-![print 1](https://user-images.githubusercontent.com/114073410/218487689-bffe9203-f79c-4721-8fd7-078ebae217a8.PNG)
-![print 2](https://user-images.githubusercontent.com/114073410/218487706-55c6ba24-2063-419e-875f-e5e8ef0ab384.PNG)
+
