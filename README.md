@@ -9,15 +9,19 @@ Trata-se do projeto indidual do módulo 5 da resília. Onde tive que criar uma f
 
 \\ Para iniciar o aplicativo:
 
+
+
 1 - Abrir o terminal no Visual Studio Code
 
-2 - Escrever 'NPM INI" e dar enter até aparecer o link do local da página
+2 - Escrever npm install --save readline-sync e esperar carregar
 
-3 - Escrever Node index.js 
+3 - Escrever 'NPM INI" e dar enter até aparecer o link do local da página
 
-4 - Escrever as propriedades CSS desejadas
+4 - Escrever Node index.js 
 
-5 - Escrever SAIR para exibir os resultados
+5- Escrever as propriedades CSS desejadas
+
+6 - Escrever SAIR para exibir os resultados
 
 
 
